@@ -98,3 +98,6 @@ int main() {
 
     return 0;
 }
+
+VS CODE OUTPUT IS 
+<img width="267" height="198" alt="Image" src="https://github.com/user-attachments/assets/8ee7de79-14a7-4d72-9006-325cef76c973" />
